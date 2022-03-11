@@ -4,10 +4,7 @@
 
 The goal of this project was to refactor the Horiseon website to make it more accessible to users and clean up the code. Along with fixing a few minor issues, like broken links, there was much to learn during the process and served as a great learning experiance. A large part of the learning process was learning how to combine elements with the same code but different classifactions without making any changes to the display or functionality. Another useful aspect was working on semantic HTML to develope good habits for the future.
 
-
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
